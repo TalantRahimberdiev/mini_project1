@@ -1,0 +1,42 @@
+
+*{
+   box-sizing: border-box;
+}
+
+#row_0{
+   width:100%;
+   background-color:#282c34 ;
+   margin:0 ;
+
+}
+#row_1{
+   width:100%;
+   background-color:white ;
+   margin: 0;
+}
+#details_0{
+   color: yellow;
+   margin:1vw ;
+}
+#details_1{
+   color: crimson;
+   margin:1vw;
+   font-size: 3vw;
+}
+#a_href{
+   word-break:break-all ;
+   color: mediumseagreen;
+   font-size: 1.3vw;
+   display: block;
+   margin: 1vw;
+}
+#icon_0{
+   margin: 1vw;
+   color: white;
+   font-size: 3vw;
+}
+#icon_1{
+   margin: 2vw;
+   color: black;
+   font-size: 3vw;
+}
